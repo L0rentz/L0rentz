@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **L0rentz/L0rentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=L0rentz&show_icons=true&theme=synthwave&count_private=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0rentz&layout=compact)
